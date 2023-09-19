@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wulan Widiasari</h1>
-- 👨‍💻 All of my projects are available at [https://wulanwidiasari.github.io/](https://wulanwidiasari.github.io/)
 
 - 📫 How to reach me **widiaawln443@gmail.com**
 
