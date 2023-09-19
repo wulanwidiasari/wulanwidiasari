@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wulan Widiasari</h1>
 
 - 📫 How to reach me **widiaawln443@gmail.com**
-
+- 📄 Know about my experiences [https://wulanwidiasari.github.io/]
 - ⚡ Fun fact **factnya adalah saya bukan orang yang funny**
 
 <h3 align="left">Connect with me:</h3>
